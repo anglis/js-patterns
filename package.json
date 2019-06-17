@@ -1,0 +1,26 @@
+{
+  "name": "js-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anglis/js-patterns.git"
+  },
+  "keywords": [
+    "js",
+    "patterns"
+  ],
+  "author": "sarunas guobis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anglis/js-patterns/issues"
+  },
+  "homepage": "https://github.com/anglis/js-patterns#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
